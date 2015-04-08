@@ -1,4 +1,4 @@
-# A Basic Library App Written in c#
+# A Basic Library App Written in CSharp
 
 * CD and Books details
 
